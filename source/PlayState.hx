@@ -395,23 +395,23 @@ class PlayState extends MusicBeatState
 				}
 			
 			case 'template': //Week A
-				var templatebg:BGSprite = new BGSprite('template', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('template', -600, -200, 0.9, 0.9);
 				add(bg);
 			
 			case 'template1': //Week B
-				var template1bg:BGSprite = new BGSprite('template1', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('template1', -600, -200, 0.9, 0.9);
 				add(bg);
 			
 			case 'template2': //Week C
-				var template2bg:BGSprite = new BGSprite('template2', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('template2', -600, -200, 0.9, 0.9);
 				add(bg);
 			
 			case 'template3': //Week D
-				var template3bg:BGSprite = new BGSprite('template3', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('template3', -600, -200, 0.9, 0.9);
 				add(bg);
 			
 			case 'template4': //Week E
-				var template4bg:BGSprite = new BGSprite('template4', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('template4', -600, -200, 0.9, 0.9);
 				add(bg);
 
 			case 'spooky': //Week 2
